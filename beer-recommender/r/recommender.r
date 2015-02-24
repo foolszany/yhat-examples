@@ -80,4 +80,3 @@ yhat.deploy("BeerRecR")
 #   "yhat_model": "BeerRecR"
 # }
 
-
